@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Myles Jarvis
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Welcome to my portfolio website. I'm currently in the process of learning how to update/maintain this.
 
-### Getting Started
+### Title 1
 
 [Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
