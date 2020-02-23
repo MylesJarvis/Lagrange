@@ -4,7 +4,7 @@ title: "Welcome to Lagrange!"
 author: "Myles Jarvis"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+# image: mountains.jpg
 ---
 
 Test.
