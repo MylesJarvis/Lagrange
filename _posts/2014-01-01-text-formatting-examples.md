@@ -4,7 +4,6 @@ title: "Text Formatting Examples"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-published: false
 ---
 
 # Markdown Support
