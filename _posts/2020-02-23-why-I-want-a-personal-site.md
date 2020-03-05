@@ -6,6 +6,6 @@ categories: journal
 tags: [documentation]
 ---
 
-Aside from getting hold of this *awesome* domain name...
+Aside from getting hold of this *incredible* domain name...
 
 I'm beginning my journey into the world of Agile within government. I want to document some of my findings and how I'm trying to make government services work for everyone.
