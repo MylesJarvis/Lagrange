@@ -1,5 +1,3 @@
-# Inspecting & Adapting in a remote working  world
-
 ## *Government, along with the rest of the economy, has seen a huge, enforced, mindset shift. We're all learning how to make work, work.*
 
 ### Advice overload
