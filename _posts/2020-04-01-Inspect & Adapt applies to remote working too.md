@@ -1,6 +1,6 @@
 ## *Government, along with the rest of the economy, has seen a huge, enforced, mindset shift. We're all learning how to make work, work.*
 
-### Advice overload
+### Advice overload.
 
 Yes, there are a plethora of companies that have worked remotely since their inception (Zapier, GitLab, Basecamp, Buffer, Ars Technica), and many have written guides on how to do this successfully ([Zapier](https://zapier.com/learn/remote-work/) and [their associated eBook](https://zapier.com/blog/free-remote-working-book-download/), [Miro](https://miro.com/guides/remote-work/), [Trello](https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf), [Basecamp](https://basecamp.com/books/remote)). This success does not mean that a team can just read something and become a high-performing remote team.
 
