@@ -1,5 +1,3 @@
-# Growing a stagnant Agile Community
-
 I've observed Delivery Management Community meets within several departments that I have worked in. They all show striking similarities:
 
 - The same people planning sessions;
