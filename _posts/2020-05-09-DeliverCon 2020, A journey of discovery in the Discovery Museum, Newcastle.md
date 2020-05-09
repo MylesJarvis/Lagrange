@@ -6,15 +6,16 @@ author: "Myles Jarvis"
 image: DeliverCon2020Board.jpg
 
 ​---
+
 ---
 
-_______
+# DeliverCon 2020: A journey of discovery in the Discovery Museum, Newcastle
 
 Written by me and originally posted on the [GOV.UK Digital People Blog](https://digitalpeople.blog.gov.uk/2020/04/30/delivercon-2020-a-journey-of-discovery-in-the-discovery-museum-newcastle/), 30 April 2020.
 
 _______
 
-## Delivery Managers from all across government sharing knowledge and making connections**
+## Delivery Managers from all across government sharing knowledge and making connections
 
 I was fortunate enough to snag a ticket to DeliverCon 2020, the conference for Delivery Managers within government.
 
