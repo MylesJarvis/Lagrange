@@ -15,6 +15,8 @@ Written by me and originally posted on the [GOV.UK Digital People Blog](https://
 
 _______
 
+![alt text](DeliverCon2020Board.jpg "An illustration of points discussed during the day's plenary sessions"
+
 ## Delivery Managers from all across government sharing knowledge and making connections
 
 I was fortunate enough to snag a ticket to DeliverCon 2020, the conference for Delivery Managers within government.
