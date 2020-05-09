@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Inspect & Adapt applies to remote working too"
+author: "Myles Jarvis"
+categories: [journal]
+---
+
 ## *Government, along with the rest of the economy, has seen a huge, enforced, mindset shift. We're all learning how to make work, work.*
 
 ### Advice overload.
